@@ -1,0 +1,1674 @@
+2023-09-15 17:23:11 INFO  EmployesResAPI:23 - ************** Started TC003_Post_Employee_Record **************
+2023-09-15 17:23:25 INFO  EmployesResAPI:125 - ************** Checking Content Encoding **************
+2023-09-15 17:23:25 INFO  EmployesResAPI:129 - Content-Encoding is==>gzip
+2023-09-15 17:23:25 INFO  EmployesResAPI:101 - ************** Checking Content Type **************
+2023-09-15 17:23:25 INFO  EmployesResAPI:105 - Content-Type is==>application/json
+2023-09-15 17:23:25 INFO  EmployesResAPI:75 - ************** Checking Response Time **************
+2023-09-15 17:23:25 INFO  EmployesResAPI:79 - Response Time is==>2084
+2023-09-15 17:23:25 INFO  EmployesResAPI:50 - ************** Checking Response Body **************
+2023-09-15 17:23:25 INFO  EmployesResAPI:54 - Response Body==>{"status":"success","data":{"name":"Johnm","salary":"empSalary","age":"empAge","id":2580},"message":"Successfully! Record has been added."}
+2023-09-15 17:23:25 INFO  EmployesResAPI:113 - ************** Checking Server Type **************
+2023-09-15 17:23:25 INFO  EmployesResAPI:117 - Server-Type is==>Apache
+2023-09-15 17:23:25 INFO  EmployesResAPI:62 - ************** Checking Status Code **************
+2023-09-15 17:23:25 INFO  EmployesResAPI:66 - Status Code Is==>200
+2023-09-15 17:23:25 INFO  EmployesResAPI:90 - ************** Checking Status Line **************
+2023-09-15 17:23:25 INFO  EmployesResAPI:94 - Status Line is==>HTTP/1.1 200 OK
+2023-09-15 17:23:25 INFO  EmployesResAPI:137 - ************** Finished TC003_Post_Employee_Record **************
+2023-10-10 17:24:25 INFO  EmployesResAPI:23 - ************** Started TC003_Post_Employee_Record **************
+2023-10-10 17:24:34 INFO  EmployesResAPI:125 - ************** Checking Content Encoding **************
+2023-10-10 17:24:34 INFO  EmployesResAPI:129 - Content-Encoding is==>gzip
+2023-10-10 17:24:34 INFO  EmployesResAPI:101 - ************** Checking Content Type **************
+2023-10-10 17:24:34 INFO  EmployesResAPI:105 - Content-Type is==>application/json
+2023-10-10 17:24:34 INFO  EmployesResAPI:75 - ************** Checking Response Time **************
+2023-10-10 17:24:34 INFO  EmployesResAPI:79 - Response Time is==>1988
+2023-10-10 17:24:34 INFO  EmployesResAPI:50 - ************** Checking Response Body **************
+2023-10-10 17:24:34 INFO  EmployesResAPI:54 - Response Body==>{"status":"success","data":{"name":"Johnx","salary":"empSalary","age":"empAge","id":9454},"message":"Successfully! Record has been added."}
+2023-10-10 17:24:34 INFO  EmployesResAPI:113 - ************** Checking Server Type **************
+2023-10-10 17:24:34 INFO  EmployesResAPI:117 - Server-Type is==>Apache
+2023-10-10 17:24:34 INFO  EmployesResAPI:62 - ************** Checking Status Code **************
+2023-10-10 17:24:34 INFO  EmployesResAPI:66 - Status Code Is==>200
+2023-10-10 17:24:34 INFO  EmployesResAPI:90 - ************** Checking Status Line **************
+2023-10-10 17:24:34 INFO  EmployesResAPI:94 - Status Line is==>HTTP/1.1 200 OK
+2023-10-10 17:24:34 INFO  EmployesResAPI:137 - ************** Finished TC003_Post_Employee_Record **************
+2023-10-10 17:50:08 INFO  EmployesResAPI:23 - ************** Started TC003_Post_Employee_Record **************
+2023-10-10 17:50:17 INFO  EmployesResAPI:62 - ************** Checking Status Code **************
+2023-10-10 17:50:17 INFO  EmployesResAPI:66 - Status Code Is==>200
+2023-10-10 17:50:17 INFO  EmployesResAPI:137 - ************** Finished TC003_Post_Employee_Record **************
+2023-10-10 17:50:55 INFO  EmployesResAPI:23 - ************** Started TC003_Post_Employee_Record **************
+2023-10-10 17:51:03 INFO  EmployesResAPI:125 - ************** Checking Content Encoding **************
+2023-10-10 17:51:03 INFO  EmployesResAPI:129 - Content-Encoding is==>gzip
+2023-10-10 17:51:03 INFO  EmployesResAPI:101 - ************** Checking Content Type **************
+2023-10-10 17:51:03 INFO  EmployesResAPI:105 - Content-Type is==>text/html; charset=UTF-8
+2023-10-10 17:51:03 INFO  EmployesResAPI:75 - ************** Checking Response Time **************
+2023-10-10 17:51:03 INFO  EmployesResAPI:79 - Response Time is==>1964
+2023-10-10 17:51:03 INFO  EmployesResAPI:50 - ************** Checking Response Body **************
+2023-10-10 17:51:03 INFO  EmployesResAPI:54 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2023-10-10 17:51:03 INFO  EmployesResAPI:113 - ************** Checking Server Type **************
+2023-10-10 17:51:03 INFO  EmployesResAPI:117 - Server-Type is==>Apache
+2023-10-10 17:51:03 INFO  EmployesResAPI:62 - ************** Checking Status Code **************
+2023-10-10 17:51:03 INFO  EmployesResAPI:66 - Status Code Is==>429
+2023-10-10 17:51:03 INFO  EmployesResAPI:90 - ************** Checking Status Line **************
+2023-10-10 17:51:03 INFO  EmployesResAPI:94 - Status Line is==>HTTP/1.1 429 Too Many Requests
+2023-10-10 17:51:03 INFO  EmployesResAPI:137 - ************** Finished TC003_Post_Employee_Record **************
+2023-10-10 17:52:02 INFO  EmployesResAPI:23 - ************** Started TC003_Post_Employee_Record **************
+2023-10-10 17:52:10 INFO  EmployesResAPI:125 - ************** Checking Content Encoding **************
+2023-10-10 17:52:10 INFO  EmployesResAPI:129 - Content-Encoding is==>gzip
+2023-10-10 17:52:10 INFO  EmployesResAPI:101 - ************** Checking Content Type **************
+2023-10-10 17:52:10 INFO  EmployesResAPI:105 - Content-Type is==>application/json
+2023-10-10 17:52:10 INFO  EmployesResAPI:75 - ************** Checking Response Time **************
+2023-10-10 17:52:10 INFO  EmployesResAPI:79 - Response Time is==>1891
+2023-10-10 17:52:10 INFO  EmployesResAPI:50 - ************** Checking Response Body **************
+2023-10-10 17:52:10 INFO  EmployesResAPI:54 - Response Body==>{"status":"success","data":{"name":"Johny","salary":"21246","age":"99","id":9437},"message":"Successfully! Record has been added."}
+2023-10-10 17:52:10 INFO  EmployesResAPI:113 - ************** Checking Server Type **************
+2023-10-10 17:52:10 INFO  EmployesResAPI:117 - Server-Type is==>Apache
+2023-10-10 17:52:10 INFO  EmployesResAPI:62 - ************** Checking Status Code **************
+2023-10-10 17:52:10 INFO  EmployesResAPI:66 - Status Code Is==>200
+2023-10-10 17:52:10 INFO  EmployesResAPI:90 - ************** Checking Status Line **************
+2023-10-10 17:52:10 INFO  EmployesResAPI:94 - Status Line is==>HTTP/1.1 200 OK
+2023-10-10 17:52:10 INFO  EmployesResAPI:137 - ************** Finished TC003_Post_Employee_Record **************
+2023-10-10 18:01:00 INFO  EmployesResAPI:23 - ************** Started TC004_Update_Employee_Record **************
+2023-10-10 18:01:09 INFO  EmployesResAPI:126 - ************** Checking Content Encoding **************
+2023-10-10 18:01:09 INFO  EmployesResAPI:130 - Content-Encoding is==>gzip
+2023-10-10 18:01:09 INFO  EmployesResAPI:102 - ************** Checking Content Type **************
+2023-10-10 18:01:09 INFO  EmployesResAPI:106 - Content-Type is==>application/json
+2023-10-10 18:01:09 INFO  EmployesResAPI:76 - ************** Checking Response Time **************
+2023-10-10 18:01:09 INFO  EmployesResAPI:80 - Response Time is==>1821
+2023-10-10 18:01:09 INFO  EmployesResAPI:51 - ************** Checking Response Body **************
+2023-10-10 18:01:09 INFO  EmployesResAPI:55 - Response Body==>{"status":"success","data":{"name":"JohnJ","salary":"92614","age":"59"},"message":"Successfully! Record has been updated."}
+2023-10-10 18:01:09 INFO  EmployesResAPI:114 - ************** Checking Server Type **************
+2023-10-10 18:01:09 INFO  EmployesResAPI:118 - Server-Type is==>Apache
+2023-10-10 18:01:09 INFO  EmployesResAPI:63 - ************** Checking Status Code **************
+2023-10-10 18:01:09 INFO  EmployesResAPI:67 - Status Code Is==>200
+2023-10-10 18:01:09 INFO  EmployesResAPI:91 - ************** Checking Status Line **************
+2023-10-10 18:01:09 INFO  EmployesResAPI:95 - Status Line is==>HTTP/1.1 200 OK
+2023-10-10 18:01:09 INFO  EmployesResAPI:138 - ************** Finished TC004_Put_Employee_Record **************
+2023-11-07 09:32:46 INFO  EmployesResAPI:17 - ************** Started TC001_Get_All_Employees **************
+2023-11-07 09:32:53 INFO  EmployesResAPI:106 - ************** Checking Content Encoding **************
+2023-11-07 09:32:53 INFO  EmployesResAPI:110 - Content-Encoding is==>gzip
+2023-11-07 09:32:53 INFO  EmployesResAPI:118 - ************** Checking Content Length **************
+2023-11-07 09:32:53 INFO  EmployesResAPI:122 - Content-Length is==>636
+2023-11-07 09:32:53 INFO  EmployesResAPI:82 - ************** Checking Content Type **************
+2023-11-07 09:32:53 INFO  EmployesResAPI:86 - Content-Type is==>application/json
+2023-11-07 09:32:53 INFO  EmployesResAPI:56 - ************** Checking Response Time **************
+2023-11-07 09:32:53 INFO  EmployesResAPI:60 - Response Time is==>1353
+2023-11-07 09:32:53 INFO  EmployesResAPI:33 - ************** Checking Response Body **************
+2023-11-07 09:32:53 INFO  EmployesResAPI:37 - Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+2023-11-07 09:32:53 INFO  EmployesResAPI:94 - ************** Checking Server Type **************
+2023-11-07 09:32:53 INFO  EmployesResAPI:98 - Server-Type is==>nginx/1.21.6
+2023-11-07 09:32:53 INFO  EmployesResAPI:43 - ************** Checking Status Code **************
+2023-11-07 09:32:53 INFO  EmployesResAPI:47 - Status Code Is==>200
+2023-11-07 09:32:53 INFO  EmployesResAPI:71 - ************** Checking Status Line **************
+2023-11-07 09:32:53 INFO  EmployesResAPI:75 - Status Line is==>HTTP/1.1 200 OK
+2023-11-07 11:20:16 INFO  EmployesResAPI:17 - ************** Started TC001_Get_All_Employees **************
+2023-11-07 11:20:26 INFO  EmployesResAPI:106 - ************** Checking Content Encoding **************
+2023-11-07 11:20:26 INFO  EmployesResAPI:110 - Content-Encoding is==>gzip
+2023-11-07 11:20:26 INFO  EmployesResAPI:118 - ************** Checking Content Length **************
+2023-11-07 11:20:26 INFO  EmployesResAPI:122 - Content-Length is==>636
+2023-11-07 11:20:26 INFO  EmployesResAPI:82 - ************** Checking Content Type **************
+2023-11-07 11:20:26 INFO  EmployesResAPI:86 - Content-Type is==>application/json
+2023-11-07 11:20:26 INFO  EmployesResAPI:56 - ************** Checking Response Time **************
+2023-11-07 11:20:26 INFO  EmployesResAPI:60 - Response Time is==>3293
+2023-11-07 11:20:26 INFO  EmployesResAPI:33 - ************** Checking Response Body **************
+2023-11-07 11:20:26 INFO  EmployesResAPI:37 - Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+2023-11-07 11:20:26 INFO  EmployesResAPI:94 - ************** Checking Server Type **************
+2023-11-07 11:20:26 INFO  EmployesResAPI:98 - Server-Type is==>nginx/1.21.6
+2023-11-07 11:20:26 INFO  EmployesResAPI:43 - ************** Checking Status Code **************
+2023-11-07 11:20:26 INFO  EmployesResAPI:47 - Status Code Is==>200
+2023-11-07 11:20:26 INFO  EmployesResAPI:71 - ************** Checking Status Line **************
+2023-11-07 11:20:26 INFO  EmployesResAPI:75 - Status Line is==>HTTP/1.1 200 OK
+2023-11-07 11:20:26 INFO  EmployesResAPI:23 - ************** Started TC004_Update_Employee_Record **************
+2023-11-07 11:20:34 INFO  EmployesResAPI:128 - ************** Checking Content Encoding **************
+2023-11-07 11:20:34 INFO  EmployesResAPI:132 - Content-Encoding is==>gzip
+2023-11-07 11:20:34 INFO  EmployesResAPI:104 - ************** Checking Content Type **************
+2023-11-07 11:20:34 INFO  EmployesResAPI:108 - Content-Type is==>text/html; charset=UTF-8
+2023-11-07 11:20:34 INFO  EmployesResAPI:78 - ************** Checking Response Time **************
+2023-11-07 11:20:34 INFO  EmployesResAPI:82 - Response Time is==>2871
+2023-11-07 11:20:34 INFO  EmployesResAPI:53 - ************** Checking Response Body **************
+2023-11-07 11:20:34 INFO  EmployesResAPI:57 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2023-11-07 11:20:34 INFO  EmployesResAPI:116 - ************** Checking Server Type **************
+2023-11-07 11:20:34 INFO  EmployesResAPI:120 - Server-Type is==>Apache
+2023-11-07 11:20:34 INFO  EmployesResAPI:65 - ************** Checking Status Code **************
+2023-11-07 11:20:34 INFO  EmployesResAPI:69 - Status Code Is==>429
+2023-11-07 11:20:34 INFO  EmployesResAPI:93 - ************** Checking Status Line **************
+2023-11-07 11:20:34 INFO  EmployesResAPI:97 - Status Line is==>HTTP/1.1 429 Too Many Requests
+2023-11-07 11:20:34 INFO  EmployesResAPI:140 - ************** Finished TC004_Put_Employee_Record **************
+2023-11-07 11:20:34 INFO  EmployesResAPI:17 - ************** Started TC002_Get_Single_Employee_Record **************
+2023-11-07 11:20:43 INFO  EmployesResAPI:106 - ************** Checking Content Length **************
+2023-11-07 11:20:43 INFO  EmployesResAPI:110 - Content-Length is==>595
+2023-11-07 11:20:43 INFO  EmployesResAPI:82 - ************** Checking Content Type **************
+2023-11-07 11:20:43 INFO  EmployesResAPI:86 - Content-Type is==>text/html; charset=UTF-8
+2023-11-07 11:20:43 INFO  EmployesResAPI:56 - ************** Checking Response Time **************
+2023-11-07 11:20:43 INFO  EmployesResAPI:60 - Response Time is==>3971
+2023-11-07 11:20:43 INFO  EmployesResAPI:33 - ************** Checking Response Body **************
+2023-11-07 11:20:43 INFO  EmployesResAPI:37 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2023-11-07 11:20:43 INFO  EmployesResAPI:94 - ************** Checking Server Type **************
+2023-11-07 11:20:43 INFO  EmployesResAPI:98 - Server-Type is==>nginx/1.21.6
+2023-11-07 11:20:43 INFO  EmployesResAPI:43 - ************** Checking Status Code **************
+2023-11-07 11:20:43 INFO  EmployesResAPI:47 - Status Code Is==>429
+2023-11-07 11:20:43 INFO  EmployesResAPI:71 - ************** Checking Status Line **************
+2023-11-07 11:20:43 INFO  EmployesResAPI:75 - Status Line is==>HTTP/1.1 429 Too Many Requests
+2023-11-07 11:20:43 INFO  EmployesResAPI:18 - ************** Started TC005_Delete_Employee_Record **************
+2023-11-07 11:20:45 INFO  EmployesResAPI:23 - ************** Started TC003_Post_Employee_Record **************
+2023-11-07 11:20:56 INFO  EmployesResAPI:125 - ************** Checking Content Encoding **************
+2023-11-07 11:20:56 INFO  EmployesResAPI:129 - Content-Encoding is==>gzip
+2023-11-07 11:20:56 INFO  EmployesResAPI:101 - ************** Checking Content Type **************
+2023-11-07 11:20:56 INFO  EmployesResAPI:105 - Content-Type is==>text/html; charset=UTF-8
+2023-11-07 11:20:56 INFO  EmployesResAPI:75 - ************** Checking Response Time **************
+2023-11-07 11:20:56 INFO  EmployesResAPI:79 - Response Time is==>5472
+2023-11-07 11:20:56 INFO  EmployesResAPI:50 - ************** Checking Response Body **************
+2023-11-07 11:20:56 INFO  EmployesResAPI:54 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2023-11-07 11:20:56 INFO  EmployesResAPI:113 - ************** Checking Server Type **************
+2023-11-07 11:20:56 INFO  EmployesResAPI:117 - Server-Type is==>Apache
+2023-11-07 11:20:56 INFO  EmployesResAPI:62 - ************** Checking Status Code **************
+2023-11-07 11:20:56 INFO  EmployesResAPI:66 - Status Code Is==>429
+2023-11-07 11:20:56 INFO  EmployesResAPI:90 - ************** Checking Status Line **************
+2023-11-07 11:20:56 INFO  EmployesResAPI:94 - Status Line is==>HTTP/1.1 429 Too Many Requests
+2023-11-07 11:20:56 INFO  EmployesResAPI:137 - ************** Finished TC003_Post_Employee_Record **************
+2024-03-08 11:30:08 INFO  EmployesResAPI:17 - ************** Started TC001_Get_All_Employees **************
+2024-03-08 11:30:16 INFO  EmployesResAPI:106 - ************** Checking Content Encoding **************
+2024-03-08 11:30:16 INFO  EmployesResAPI:110 - Content-Encoding is==>gzip
+2024-03-08 11:30:16 INFO  EmployesResAPI:118 - ************** Checking Content Length **************
+2024-03-08 11:30:16 INFO  EmployesResAPI:122 - Content-Length is==>636
+2024-03-08 11:30:16 INFO  EmployesResAPI:82 - ************** Checking Content Type **************
+2024-03-08 11:30:16 INFO  EmployesResAPI:86 - Content-Type is==>application/json
+2024-03-08 11:30:16 INFO  EmployesResAPI:56 - ************** Checking Response Time **************
+2024-03-08 11:30:16 INFO  EmployesResAPI:60 - Response Time is==>2147
+2024-03-08 11:30:16 INFO  EmployesResAPI:33 - ************** Checking Response Body **************
+2024-03-08 11:30:17 INFO  EmployesResAPI:37 - Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+2024-03-08 11:30:17 INFO  EmployesResAPI:94 - ************** Checking Server Type **************
+2024-03-08 11:30:17 INFO  EmployesResAPI:98 - Server-Type is==>nginx/1.21.6
+2024-03-08 11:30:17 INFO  EmployesResAPI:43 - ************** Checking Status Code **************
+2024-03-08 11:30:17 INFO  EmployesResAPI:47 - Status Code Is==>200
+2024-03-08 11:30:17 INFO  EmployesResAPI:71 - ************** Checking Status Line **************
+2024-03-08 11:30:17 INFO  EmployesResAPI:75 - Status Line is==>HTTP/1.1 200 OK
+2024-03-08 11:32:53 INFO  EmployesResAPI:17 - ************** Started TC001_Get_All_Employees **************
+2024-03-08 11:33:01 INFO  EmployesResAPI:106 - ************** Checking Content Encoding **************
+2024-03-08 11:33:01 INFO  EmployesResAPI:110 - Content-Encoding is==>gzip
+2024-03-08 11:33:01 INFO  EmployesResAPI:118 - ************** Checking Content Length **************
+2024-03-08 11:33:01 INFO  EmployesResAPI:122 - Content-Length is==>636
+2024-03-08 11:33:01 INFO  EmployesResAPI:82 - ************** Checking Content Type **************
+2024-03-08 11:33:01 INFO  EmployesResAPI:86 - Content-Type is==>application/json
+2024-03-08 11:33:01 INFO  EmployesResAPI:56 - ************** Checking Response Time **************
+2024-03-08 11:33:01 INFO  EmployesResAPI:60 - Response Time is==>1917
+2024-03-08 11:33:01 INFO  EmployesResAPI:33 - ************** Checking Response Body **************
+2024-03-08 11:33:01 INFO  EmployesResAPI:37 - Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+2024-03-08 11:33:01 INFO  EmployesResAPI:94 - ************** Checking Server Type **************
+2024-03-08 11:33:01 INFO  EmployesResAPI:98 - Server-Type is==>nginx/1.21.6
+2024-03-08 11:33:01 INFO  EmployesResAPI:43 - ************** Checking Status Code **************
+2024-03-08 11:33:01 INFO  EmployesResAPI:47 - Status Code Is==>200
+2024-03-08 11:33:01 INFO  EmployesResAPI:71 - ************** Checking Status Line **************
+2024-03-08 11:33:01 INFO  EmployesResAPI:75 - Status Line is==>HTTP/1.1 200 OK
+2024-03-08 11:33:01 INFO  EmployesResAPI:23 - ************** Started TC004_Update_Employee_Record **************
+2024-03-08 11:33:07 INFO  EmployesResAPI:128 - ************** Checking Content Encoding **************
+2024-03-08 11:33:07 INFO  EmployesResAPI:132 - Content-Encoding is==>gzip
+2024-03-08 11:33:07 INFO  EmployesResAPI:104 - ************** Checking Content Type **************
+2024-03-08 11:33:07 INFO  EmployesResAPI:108 - Content-Type is==>text/html; charset=UTF-8
+2024-03-08 11:33:07 INFO  EmployesResAPI:78 - ************** Checking Response Time **************
+2024-03-08 11:33:07 INFO  EmployesResAPI:82 - Response Time is==>903
+2024-03-08 11:33:07 INFO  EmployesResAPI:53 - ************** Checking Response Body **************
+2024-03-08 11:33:07 INFO  EmployesResAPI:57 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 11:33:07 INFO  EmployesResAPI:116 - ************** Checking Server Type **************
+2024-03-08 11:33:07 INFO  EmployesResAPI:120 - Server-Type is==>Apache
+2024-03-08 11:33:07 INFO  EmployesResAPI:65 - ************** Checking Status Code **************
+2024-03-08 11:33:07 INFO  EmployesResAPI:69 - Status Code Is==>429
+2024-03-08 11:33:08 INFO  EmployesResAPI:93 - ************** Checking Status Line **************
+2024-03-08 11:33:08 INFO  EmployesResAPI:97 - Status Line is==>HTTP/1.1 429 Too Many Requests
+2024-03-08 11:33:08 INFO  EmployesResAPI:140 - ************** Finished TC004_Put_Employee_Record **************
+2024-03-08 11:33:08 INFO  EmployesResAPI:17 - ************** Started TC002_Get_Single_Employee_Record **************
+2024-03-08 11:33:14 INFO  EmployesResAPI:106 - ************** Checking Content Length **************
+2024-03-08 11:33:14 INFO  EmployesResAPI:110 - Content-Length is==>595
+2024-03-08 11:33:14 INFO  EmployesResAPI:82 - ************** Checking Content Type **************
+2024-03-08 11:33:14 INFO  EmployesResAPI:86 - Content-Type is==>text/html; charset=UTF-8
+2024-03-08 11:33:14 INFO  EmployesResAPI:56 - ************** Checking Response Time **************
+2024-03-08 11:33:14 INFO  EmployesResAPI:60 - Response Time is==>1015
+2024-03-08 11:33:14 INFO  EmployesResAPI:33 - ************** Checking Response Body **************
+2024-03-08 11:33:14 INFO  EmployesResAPI:37 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 11:33:14 INFO  EmployesResAPI:94 - ************** Checking Server Type **************
+2024-03-08 11:33:14 INFO  EmployesResAPI:98 - Server-Type is==>nginx/1.21.6
+2024-03-08 11:33:14 INFO  EmployesResAPI:43 - ************** Checking Status Code **************
+2024-03-08 11:33:14 INFO  EmployesResAPI:47 - Status Code Is==>429
+2024-03-08 11:33:14 INFO  EmployesResAPI:71 - ************** Checking Status Line **************
+2024-03-08 11:33:14 INFO  EmployesResAPI:75 - Status Line is==>HTTP/1.1 429 Too Many Requests
+2024-03-08 11:33:14 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 11:33:15 INFO  EmployesResAPI:23 - ************** Started TC003_Post_Employee_Record **************
+2024-03-08 11:33:21 INFO  EmployesResAPI:125 - ************** Checking Content Encoding **************
+2024-03-08 11:33:21 INFO  EmployesResAPI:129 - Content-Encoding is==>gzip
+2024-03-08 11:33:21 INFO  EmployesResAPI:101 - ************** Checking Content Type **************
+2024-03-08 11:33:21 INFO  EmployesResAPI:105 - Content-Type is==>text/html; charset=UTF-8
+2024-03-08 11:33:21 INFO  EmployesResAPI:75 - ************** Checking Response Time **************
+2024-03-08 11:33:21 INFO  EmployesResAPI:79 - Response Time is==>853
+2024-03-08 11:33:21 INFO  EmployesResAPI:50 - ************** Checking Response Body **************
+2024-03-08 11:33:21 INFO  EmployesResAPI:54 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 11:33:21 INFO  EmployesResAPI:113 - ************** Checking Server Type **************
+2024-03-08 11:33:21 INFO  EmployesResAPI:117 - Server-Type is==>Apache
+2024-03-08 11:33:21 INFO  EmployesResAPI:62 - ************** Checking Status Code **************
+2024-03-08 11:33:21 INFO  EmployesResAPI:66 - Status Code Is==>429
+2024-03-08 11:33:21 INFO  EmployesResAPI:90 - ************** Checking Status Line **************
+2024-03-08 11:33:21 INFO  EmployesResAPI:94 - Status Line is==>HTTP/1.1 429 Too Many Requests
+2024-03-08 11:33:21 INFO  EmployesResAPI:137 - ************** Finished TC003_Post_Employee_Record **************
+2024-03-08 11:41:13 INFO  EmployesResAPI:17 - ************** Started TC001_Get_All_Employees **************
+2024-03-08 11:41:22 INFO  EmployesResAPI:106 - ************** Checking Content Encoding **************
+2024-03-08 11:41:22 INFO  EmployesResAPI:110 - Content-Encoding is==>gzip
+2024-03-08 11:41:22 INFO  EmployesResAPI:118 - ************** Checking Content Length **************
+2024-03-08 11:41:22 INFO  EmployesResAPI:122 - Content-Length is==>636
+2024-03-08 11:41:22 INFO  EmployesResAPI:82 - ************** Checking Content Type **************
+2024-03-08 11:41:22 INFO  EmployesResAPI:86 - Content-Type is==>application/json
+2024-03-08 11:41:22 INFO  EmployesResAPI:56 - ************** Checking Response Time **************
+2024-03-08 11:41:22 INFO  EmployesResAPI:60 - Response Time is==>1926
+2024-03-08 11:41:22 INFO  EmployesResAPI:33 - ************** Checking Response Body **************
+2024-03-08 11:41:22 INFO  EmployesResAPI:37 - Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+2024-03-08 11:41:22 INFO  EmployesResAPI:94 - ************** Checking Server Type **************
+2024-03-08 11:41:22 INFO  EmployesResAPI:98 - Server-Type is==>nginx/1.21.6
+2024-03-08 11:41:22 INFO  EmployesResAPI:43 - ************** Checking Status Code **************
+2024-03-08 11:41:22 INFO  EmployesResAPI:47 - Status Code Is==>200
+2024-03-08 11:41:22 INFO  EmployesResAPI:71 - ************** Checking Status Line **************
+2024-03-08 11:41:22 INFO  EmployesResAPI:75 - Status Line is==>HTTP/1.1 200 OK
+2024-03-08 11:41:31 INFO  EmployesResAPI:17 - ************** Started TC002_Get_Single_Employee_Record **************
+2024-03-08 11:41:40 INFO  EmployesResAPI:106 - ************** Checking Content Length **************
+2024-03-08 11:41:40 INFO  EmployesResAPI:110 - Content-Length is==>595
+2024-03-08 11:41:40 INFO  EmployesResAPI:82 - ************** Checking Content Type **************
+2024-03-08 11:41:40 INFO  EmployesResAPI:86 - Content-Type is==>text/html; charset=UTF-8
+2024-03-08 11:41:40 INFO  EmployesResAPI:56 - ************** Checking Response Time **************
+2024-03-08 11:41:40 INFO  EmployesResAPI:60 - Response Time is==>1973
+2024-03-08 11:41:40 INFO  EmployesResAPI:33 - ************** Checking Response Body **************
+2024-03-08 11:41:40 INFO  EmployesResAPI:37 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 11:41:40 INFO  EmployesResAPI:94 - ************** Checking Server Type **************
+2024-03-08 11:41:40 INFO  EmployesResAPI:98 - Server-Type is==>nginx/1.21.6
+2024-03-08 11:41:40 INFO  EmployesResAPI:43 - ************** Checking Status Code **************
+2024-03-08 11:41:40 INFO  EmployesResAPI:47 - Status Code Is==>429
+2024-03-08 11:41:40 INFO  EmployesResAPI:71 - ************** Checking Status Line **************
+2024-03-08 11:41:40 INFO  EmployesResAPI:75 - Status Line is==>HTTP/1.1 429 Too Many Requests
+2024-03-08 11:46:48 INFO  EmployesResAPI:17 - ************** Started TC001_Get_All_Employees **************
+2024-03-08 11:46:56 INFO  EmployesResAPI:106 - ************** Checking Content Encoding **************
+2024-03-08 11:46:56 INFO  EmployesResAPI:110 - Content-Encoding is==>gzip
+2024-03-08 11:46:56 INFO  EmployesResAPI:118 - ************** Checking Content Length **************
+2024-03-08 11:46:56 INFO  EmployesResAPI:122 - Content-Length is==>636
+2024-03-08 11:46:56 INFO  EmployesResAPI:82 - ************** Checking Content Type **************
+2024-03-08 11:46:56 INFO  EmployesResAPI:86 - Content-Type is==>application/json
+2024-03-08 11:46:56 INFO  EmployesResAPI:56 - ************** Checking Response Time **************
+2024-03-08 11:46:56 INFO  EmployesResAPI:60 - Response Time is==>2021
+2024-03-08 11:46:56 INFO  EmployesResAPI:33 - ************** Checking Response Body **************
+2024-03-08 11:46:56 INFO  EmployesResAPI:37 - Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+2024-03-08 11:46:56 INFO  EmployesResAPI:94 - ************** Checking Server Type **************
+2024-03-08 11:46:56 INFO  EmployesResAPI:98 - Server-Type is==>nginx/1.21.6
+2024-03-08 11:46:56 INFO  EmployesResAPI:43 - ************** Checking Status Code **************
+2024-03-08 11:46:56 INFO  EmployesResAPI:47 - Status Code Is==>200
+2024-03-08 11:46:56 INFO  EmployesResAPI:71 - ************** Checking Status Line **************
+2024-03-08 11:46:56 INFO  EmployesResAPI:75 - Status Line is==>HTTP/1.1 200 OK
+2024-03-08 11:51:12 INFO  EmployesResAPI:17 - ************** Started TC002_Get_Single_Employee_Record **************
+2024-03-08 11:51:20 INFO  EmployesResAPI:106 - ************** Checking Content Length **************
+2024-03-08 11:51:20 INFO  EmployesResAPI:110 - Content-Length is==>150
+2024-03-08 11:51:20 INFO  EmployesResAPI:82 - ************** Checking Content Type **************
+2024-03-08 11:51:20 INFO  EmployesResAPI:86 - Content-Type is==>application/json
+2024-03-08 11:51:20 INFO  EmployesResAPI:56 - ************** Checking Response Time **************
+2024-03-08 11:51:20 INFO  EmployesResAPI:60 - Response Time is==>2044
+2024-03-08 11:51:20 INFO  EmployesResAPI:33 - ************** Checking Response Body **************
+2024-03-08 11:51:20 INFO  EmployesResAPI:37 - Response Body==>{"status":"success","data":{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},"message":"Successfully! Record has been fetched."}
+2024-03-08 11:51:20 INFO  EmployesResAPI:94 - ************** Checking Server Type **************
+2024-03-08 11:51:20 INFO  EmployesResAPI:98 - Server-Type is==>nginx/1.21.6
+2024-03-08 11:51:20 INFO  EmployesResAPI:43 - ************** Checking Status Code **************
+2024-03-08 11:51:20 INFO  EmployesResAPI:47 - Status Code Is==>200
+2024-03-08 11:51:20 INFO  EmployesResAPI:71 - ************** Checking Status Line **************
+2024-03-08 11:51:20 INFO  EmployesResAPI:75 - Status Line is==>HTTP/1.1 200 OK
+2024-03-08 11:51:31 INFO  EmployesResAPI:23 - ************** Started TC003_Post_Employee_Record **************
+2024-03-08 11:51:40 INFO  EmployesResAPI:125 - ************** Checking Content Encoding **************
+2024-03-08 11:51:40 INFO  EmployesResAPI:129 - Content-Encoding is==>gzip
+2024-03-08 11:51:40 INFO  EmployesResAPI:101 - ************** Checking Content Type **************
+2024-03-08 11:51:40 INFO  EmployesResAPI:105 - Content-Type is==>text/html; charset=UTF-8
+2024-03-08 11:51:40 INFO  EmployesResAPI:75 - ************** Checking Response Time **************
+2024-03-08 11:51:40 INFO  EmployesResAPI:79 - Response Time is==>1835
+2024-03-08 11:51:40 INFO  EmployesResAPI:50 - ************** Checking Response Body **************
+2024-03-08 11:51:40 INFO  EmployesResAPI:54 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 11:51:40 INFO  EmployesResAPI:113 - ************** Checking Server Type **************
+2024-03-08 11:51:40 INFO  EmployesResAPI:117 - Server-Type is==>Apache
+2024-03-08 11:51:40 INFO  EmployesResAPI:62 - ************** Checking Status Code **************
+2024-03-08 11:51:40 INFO  EmployesResAPI:66 - Status Code Is==>429
+2024-03-08 11:51:40 INFO  EmployesResAPI:90 - ************** Checking Status Line **************
+2024-03-08 11:51:40 INFO  EmployesResAPI:94 - Status Line is==>HTTP/1.1 429 Too Many Requests
+2024-03-08 11:51:40 INFO  EmployesResAPI:137 - ************** Finished TC003_Post_Employee_Record **************
+2024-03-08 11:58:40 INFO  EmployesResAPI:23 - ************** Started TC003_Post_Employee_Record **************
+2024-03-08 11:58:50 INFO  EmployesResAPI:125 - ************** Checking Content Encoding **************
+2024-03-08 11:58:50 INFO  EmployesResAPI:129 - Content-Encoding is==>gzip
+2024-03-08 11:58:50 INFO  EmployesResAPI:101 - ************** Checking Content Type **************
+2024-03-08 11:58:50 INFO  EmployesResAPI:105 - Content-Type is==>application/json
+2024-03-08 11:58:50 INFO  EmployesResAPI:75 - ************** Checking Response Time **************
+2024-03-08 11:58:50 INFO  EmployesResAPI:79 - Response Time is==>2280
+2024-03-08 11:58:50 INFO  EmployesResAPI:50 - ************** Checking Response Body **************
+2024-03-08 11:58:50 INFO  EmployesResAPI:54 - Response Body==>{"status":"success","data":{"name":"Johny","salary":"38001","age":"59","id":992},"message":"Successfully! Record has been added."}
+2024-03-08 11:58:50 INFO  EmployesResAPI:113 - ************** Checking Server Type **************
+2024-03-08 11:58:50 INFO  EmployesResAPI:117 - Server-Type is==>Apache
+2024-03-08 11:58:50 INFO  EmployesResAPI:62 - ************** Checking Status Code **************
+2024-03-08 11:58:50 INFO  EmployesResAPI:66 - Status Code Is==>200
+2024-03-08 11:58:50 INFO  EmployesResAPI:90 - ************** Checking Status Line **************
+2024-03-08 11:58:50 INFO  EmployesResAPI:94 - Status Line is==>HTTP/1.1 200 OK
+2024-03-08 11:58:50 INFO  EmployesResAPI:137 - ************** Finished TC003_Post_Employee_Record **************
+2024-03-08 11:59:00 INFO  EmployesResAPI:23 - ************** Started TC004_Update_Employee_Record **************
+2024-03-08 11:59:09 INFO  EmployesResAPI:128 - ************** Checking Content Encoding **************
+2024-03-08 11:59:09 INFO  EmployesResAPI:132 - Content-Encoding is==>gzip
+2024-03-08 11:59:09 INFO  EmployesResAPI:104 - ************** Checking Content Type **************
+2024-03-08 11:59:09 INFO  EmployesResAPI:108 - Content-Type is==>text/html; charset=UTF-8
+2024-03-08 11:59:09 INFO  EmployesResAPI:78 - ************** Checking Response Time **************
+2024-03-08 11:59:09 INFO  EmployesResAPI:82 - Response Time is==>1881
+2024-03-08 11:59:09 INFO  EmployesResAPI:53 - ************** Checking Response Body **************
+2024-03-08 11:59:09 INFO  EmployesResAPI:57 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 11:59:09 INFO  EmployesResAPI:116 - ************** Checking Server Type **************
+2024-03-08 11:59:09 INFO  EmployesResAPI:120 - Server-Type is==>Apache
+2024-03-08 11:59:09 INFO  EmployesResAPI:65 - ************** Checking Status Code **************
+2024-03-08 11:59:09 INFO  EmployesResAPI:69 - Status Code Is==>429
+2024-03-08 11:59:09 INFO  EmployesResAPI:93 - ************** Checking Status Line **************
+2024-03-08 11:59:09 INFO  EmployesResAPI:97 - Status Line is==>HTTP/1.1 429 Too Many Requests
+2024-03-08 11:59:09 INFO  EmployesResAPI:140 - ************** Finished TC004_Put_Employee_Record **************
+2024-03-08 12:03:30 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 12:04:32 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 12:14:18 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 12:14:29 INFO  EmployesResAPI:38 - ************** Checking Response Body **************
+2024-03-08 12:14:29 INFO  EmployesResAPI:42 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 12:16:25 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 12:16:37 INFO  EmployesResAPI:38 - ************** Checking Response Body **************
+2024-03-08 12:16:37 INFO  EmployesResAPI:42 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 12:19:19 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 12:19:29 INFO  EmployesResAPI:38 - ************** Checking Response Body **************
+2024-03-08 12:19:29 INFO  EmployesResAPI:42 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 12:20:38 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 12:20:48 INFO  EmployesResAPI:38 - ************** Checking Response Body **************
+2024-03-08 12:20:48 INFO  EmployesResAPI:42 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 12:25:10 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 12:25:21 INFO  EmployesResAPI:38 - ************** Checking Response Body **************
+2024-03-08 12:25:21 INFO  EmployesResAPI:43 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 12:27:01 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 12:27:11 INFO  EmployesResAPI:38 - ************** Checking Response Body **************
+2024-03-08 12:27:11 INFO  EmployesResAPI:43 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 12:30:29 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 12:30:40 INFO  EmployesResAPI:38 - ************** Checking Response Body **************
+2024-03-08 12:30:40 INFO  EmployesResAPI:42 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 12:35:45 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 12:35:56 INFO  EmployesResAPI:38 - ************** Checking Response Body **************
+2024-03-08 12:35:56 INFO  EmployesResAPI:42 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 12:36:14 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 12:36:45 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 12:36:56 INFO  EmployesResAPI:38 - ************** Checking Response Body **************
+2024-03-08 12:36:56 INFO  EmployesResAPI:42 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-08 12:37:43 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 12:38:28 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-08 12:38:38 INFO  EmployesResAPI:38 - ************** Checking Response Body **************
+2024-03-08 12:38:38 INFO  EmployesResAPI:42 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-03-22 14:52:58 INFO  EmployesResAPI:17 - ************** Started TC005_Delete_Employee_Record **************
+2024-03-22 14:53:07 INFO  EmployesResAPI:38 - ************** Checking Response Body **************
+2024-03-22 14:53:07 INFO  EmployesResAPI:42 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2024-04-02 17:29:35 INFO  EmployesResAPI:17 - ************** Started TC001_Get_All_Employees **************
+2024-04-02 17:29:42 INFO  EmployesResAPI:106 - ************** Checking Content Encoding **************
+2024-04-02 17:29:42 INFO  EmployesResAPI:110 - Content-Encoding is==>gzip
+2024-04-02 17:29:42 INFO  EmployesResAPI:118 - ************** Checking Content Length **************
+2024-04-02 17:29:42 INFO  EmployesResAPI:122 - Content-Length is==>636
+2024-04-02 17:29:42 INFO  EmployesResAPI:82 - ************** Checking Content Type **************
+2024-04-02 17:29:42 INFO  EmployesResAPI:86 - Content-Type is==>application/json
+2024-04-02 17:29:42 INFO  EmployesResAPI:56 - ************** Checking Response Time **************
+2024-04-02 17:29:42 INFO  EmployesResAPI:60 - Response Time is==>1599
+2024-04-02 17:29:42 INFO  EmployesResAPI:33 - ************** Checking Response Body **************
+2024-04-02 17:29:42 INFO  EmployesResAPI:37 - Response Body==>{"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+2024-04-02 17:29:42 INFO  EmployesResAPI:94 - ************** Checking Server Type **************
+2024-04-02 17:29:42 INFO  EmployesResAPI:98 - Server-Type is==>Apache
+2024-04-02 17:29:42 INFO  EmployesResAPI:43 - ************** Checking Status Code **************
+2024-04-02 17:29:42 INFO  EmployesResAPI:47 - Status Code Is==>200
+2024-04-02 17:29:42 INFO  EmployesResAPI:71 - ************** Checking Status Line **************
+2024-04-02 17:29:42 INFO  EmployesResAPI:75 - Status Line is==>HTTP/1.1 200 OK
